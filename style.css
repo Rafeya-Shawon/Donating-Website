@@ -89,6 +89,7 @@
 
 .planning {
     display: flex;
+    text-align: center;
 }
 
 .card {
