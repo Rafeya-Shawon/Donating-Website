@@ -46,7 +46,7 @@
 .donate {
     color: rgb(67, 64, 64);
     text-align: center;
-    margin-top: 50px;
+    margin-top: 150px;
 
 }
 
@@ -81,7 +81,7 @@
 }
 
 .plan {
-    margin-top: 100px;
+    margin-top: 150px;
     color: rgb(67, 64, 64);
     text-align: center;
 
@@ -117,13 +117,6 @@
 
 #card3 {
     background-color: lightgoldenrodyellow;
-}
-
-.plan {
-    margin-top: 100px;
-    color: rgb(67, 64, 64);
-    text-align: center;
-
 }
 
 #Email {
