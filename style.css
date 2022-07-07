@@ -135,6 +135,36 @@
     margin: 10px 100px;
 }
 
+.bonus2 {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 100px;
+
+}
+
+.bonus2 img {
+    width: 80%;
+}
+
+.para {
+    font-size: 20px;
+    color: rgb(67, 64, 64);
+    margin-top: 10px;
+    text-align: center;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.para li {
+    list-style: none;
+    font-weight: 500;
+    padding: 10px;
+}
+
+.para:hover {
+    margin-top: -10px;
+    transition: .8ms;
+    background-color: rgb(92, 170, 92);
+}
 
 #Email {
     height: 40px;
